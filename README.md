@@ -1,6 +1,6 @@
-# flutter_application_1
+TO DO LIST
 
-A new Flutter project.
+BTTH TUAN 3 MON EC MOBILE.
 
 ## Getting Started
 
